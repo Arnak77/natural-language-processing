@@ -1,0 +1,49 @@
+import os 
+import nltk
+nltk.download()
+
+#word_tokenize
+
+# sent_tokenize
+
+# blankline_tokenize
+
+# WhitespaceTokenizer
+
+# wordpunct_tokenize
+
+#N-GRAM,BI-GRAM,TRI-GRAM
+
+# porter-stemmer
+
+# LancasterStemmer
+
+# WordNetLemmatizer
+
+# stopwords
+
+# pos_tag([part of sppech])
+
+# NER (NAMED ENTITIY RECOGNITION)
+
+# wordcloud (pip install wordcloud)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
